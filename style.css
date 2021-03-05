@@ -3,7 +3,7 @@
 html {
     background: #ffc107 url(assets/tlo.jpg) no-repeat fixed;
     background-size: contain;
-    font-size: 62.5%;
+    font-size: 100%;
     font-family: 'Quattrocento', serif;
 }
 
@@ -110,15 +110,6 @@ nav {
     float: right;
 }
 
-nav li{
-    text-align: right;
-    //list-style-image: url(assets/strzalka.svg);
-    background: url(assets/strzalka.svg) right no-repeat;
-    padding-right: 4rem;
-    line-height: 1.5rem;
-    margin: 2rem;
-}
-
 section {
     width: 50%;
     min-width: 600px;
@@ -194,7 +185,7 @@ button {
     }
 
     section {
-        width: 75%;
+        width: 100%;
     }
 
     .bg{
@@ -214,8 +205,8 @@ button {
     }
 
     section {
-    width: 90%;
-    min-width: 300px;
+    width: 10%;
+    min-width: 30px;
     right: 5%;
     }
 
