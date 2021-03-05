@@ -26,7 +26,7 @@ html {
 
 .dot{
     background-color: #3E3B47;
-    width: 1rem;    
+    width: 1rem;
     height: 1rem;
     margin: 3rem auto;
     border-radius: 2rem;
@@ -68,7 +68,7 @@ h1 {
 h2 {font-size: 2.7rem; color: white;}
 
 h3 {
-    font-size: 2.5rem; 
+    font-size: 2.5rem;
 }
 
 h3, h2 {
@@ -188,45 +188,38 @@ button {
 }
 
 @media all and (max-width: 1000px){
-    
+
     html{
         background: #ffc107;
     }
-    
+
     section {
         width: 75%;
     }
-    
+
     .bg{
         background: url(assets/tlo.jpg) fixed no-repeat;
-        height: 12rem;
+        height: 2rem;
     }
-    
+
 }
 
 @media all and (max-width: 768px){
     hgroup {
     margin-left: 0;
     }
-    
+
     figure {
     display: none;
     }
-    
+
     section {
     width: 90%;
     min-width: 300px;
     right: 5%;
     }
-    
+
     .text {
     column-count: 1;
     }
 }
-
-
-
-
-
-
-
