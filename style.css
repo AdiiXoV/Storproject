@@ -2,20 +2,11 @@
 
 html {
     background: #ffc107 url(assets/tlo.jpg) no-repeat fixed;
-    background-size: cover contain;
+    background-size:ontain;
     font-size: 100%;
     font-family: 'Quattrocento', serif;
 }
 
-
-.menu{
-    background: white url(assets/hamburger.svg) center no-repeat;
-    width: 3.6rem;
-    height: 3.2rem;
-    position: fixed;
-    right: 2%;
-    z-index: 9999;
-}
 
 .hoverme:hover header {
     display: block;
