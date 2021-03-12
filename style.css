@@ -185,11 +185,12 @@ button {
     }
 
     section {
-        width: 100%;
+        width: 50%;
     }
 
     .bg{
-        background: url(assets/tlo.jpg) fixed no-repeat;
+        background: url(assets/tlo.jpg) fixed
+        no-repeat;
         height: 2rem;
     }
 
