@@ -1,8 +1,8 @@
 @import url(reset.css);
 
 html {
-    background: #ffc107 url(assets/tlo.jpg) no-repeat fixed;
-    background-size: contain;
+    background: black url(assets/tlo.jpg) no-repeat fixed;
+    background-size: auto contain;
     font-size: 120%;
     font-family: 'Quattrocento', serif;
 }
