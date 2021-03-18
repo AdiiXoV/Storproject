@@ -10,14 +10,13 @@ html {
 
 .menu{
     background: white url(assets/hamburger.jpg) center no-repeat;
-    width: 3.6rem;
+<img src="https://adiixov.github.io/Storproject/assets/hamburger.jpg" width="12" height="12"
+  } width: 3.6rem;
     height: 3.2rem;
     position: fixed;
     right: 2%;
     z-index: 9999;
 }
-
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;" src="https://adiixov.github.io/Storproject/assets/hamburger.jpg" width="12" height="12">
 
 .hoverme:hover header {
     display: block;
