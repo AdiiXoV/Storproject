@@ -69,7 +69,7 @@ h1 {
 h2 {font-size: 2.7rem; color: white;}
 
 h3 {
-    font-size: 2.5rem;
+    font-size: 2.5rem; color: white;
 }
 
 h3, h2 {
@@ -186,7 +186,7 @@ button {
     }
 
     section {
-        width: 0%;
+        width: 20%;
     }
 
     .bg{
