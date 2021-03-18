@@ -10,7 +10,7 @@ html {
 
 .menu{
     background: white url(assets/hamburger.jpg) center no-repeat;
-  } width: 3.6rem;
+   width: 3.6rem;
     height: 3.2rem;
     position: fixed;
     right: 2%;
