@@ -3,7 +3,7 @@
 html {
     background: black url(assets/tlo.jpg) no-repeat fixed;
     background-size: auto contain;
-    font-size: 120%;
+    font-size: 100%;
     font-family: 'Quattrocento', serif;
 }
 
@@ -51,12 +51,13 @@ strong {
 }
 
 em {
-    background-color: r(256,256,256, 0.8);
+    background-color: rgba(256,256,256, 0.8);
 }
 
 h1 {
     font-size: 3.7rem;
     padding: 40px;
+    color: White;
     background-color: rgba(255,255,255, 0.8);
     padding: 3.5rem;
     margin: 4.0rem;
