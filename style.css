@@ -9,13 +9,13 @@ html {
 
 
 .menu{
-    background: white url(assets/menu.svg) center no-repeat;
-    padding: 40px
+    background: white <img src="assets/menu.svg" width=40px> center no-repeat;
     width: 3.6rem;
     height: 3.2rem;
     position: fixed;
     right: 2%;
     z-index: 9999;
+
 }
 
 .hoverme:hover header {
