@@ -181,11 +181,11 @@ button {
 @media all and (max-width: 1000px){
 
     html{
-        background: #ffc107;
+        background: #00000;
     }
 
     section {
-        width: 50%;
+        width: 0%;
     }
 
     .bg{
