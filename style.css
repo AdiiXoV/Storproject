@@ -9,7 +9,7 @@ html {
 
 
 .menu{
-    background: black url(assets/menu.svg) center no-repeat;
+    background: White url(assets/menu.svg) center no-repeat;
     width: 3.6rem;
     height: 3.2rem;
     position: fixed;
